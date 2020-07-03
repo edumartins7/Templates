@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Eduardo Martins",
+    "classifications": [ "Console" ],
+    "identity": "edumartins7.NetCore3Console.Console.CSharp",
+    "name": "console app com serilog etc",
+    "shortName": "console-com-serilog"
+}
