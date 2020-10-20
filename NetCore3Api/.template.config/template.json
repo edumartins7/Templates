@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Eduardo Martins",
+    "classifications": [ "WebApi" ],
+    "identity": "edumartins7.NetCore3Api.Api.CSharp",
+    "name": "WebApi com serilog, cors, etc",
+    "shortName": "webapi-com-serilog"
+}
